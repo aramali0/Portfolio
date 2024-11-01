@@ -1,0 +1,16 @@
+{
+    "title": "Contactez Moi",
+    "subtitle": "Entrer en contact",
+    "name": "Votre Nom",
+    "name-placeholder": "Entrez votre nom",
+    "email": "Votre Email",
+    "email-placeholder": "Entrez votre email",
+    "message": "Votre Message",
+    "message-placeholder": "Entrez votre message",
+    "send": "Envoyer",
+    "sending": "Envoi...",
+    "successMessage": "Merci. Je vous répondrai dès que possible.",
+    "error": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+}

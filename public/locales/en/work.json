@@ -1,0 +1,38 @@
+
+ {
+ "projects": {
+    "title": "Projects",
+    "subtitle": "My Work",
+    "description": "Here are some of the projects I have worked on.",
+    "orderly": {
+      "name": "Orderly",
+      "description": "Created an air traffic control simulation for managing aircraft within controlled airspace, offering a realistic environment for training and understanding air traffic coordination complexities.",
+      "tags": ["Spring Cloud", "Next Ts", "Kafka", "Zipkin"]
+    },
+    "bistro_management": {
+      "name": "Bistro Management",
+      "description": "Developed a restaurant management system with roles for menu, meal, and order management, featuring intuitive ordering and tracking, and GitHub-based collaboration.",
+      "tags": ["Spring Boot", "React js", "Tailwind CSS"]
+    },
+    "aerologic": {
+      "name": "AeroLogic",
+      "description": "Developed an air traffic control simulation for managing aircraft coordination in controlled airspace, providing a realistic training environment.",
+      "tags": ["Spring Boot", "JS", "Html & Css"]
+    },
+    "votesphere": {
+      "name": "VoteSphere",
+      "description": "Developed a mobile app for creating private voting rooms with multi-program voting options, secured by access codes to ensure only authorized participants can join and vote in each session.",
+      "tags": ["Spring Boot", "Flutter"]
+    },
+    "fight_game": {
+      "name": "Fight Game",
+      "description": "Check out my Fighting Game project with a Welcome Page, Player Selection, gameplay, and results. Intuitive interface and character options make it a fun experience.",
+      "tags": ["J2E", "JSP", "scss"]
+    },
+    "talksphere": {
+      "name": "TalkSphere",
+      "description": "This web application supports 1-to-1 and group chats with user roles like Admin, Moderator, and Normal, each with specific permissions for effective chat control and moderation.",
+      "tags": ["Spring Boot", "JS", "Socket", "html & css"]
+    }
+  }
+}

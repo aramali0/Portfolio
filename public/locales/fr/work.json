@@ -1,0 +1,37 @@
+{
+"projects": {
+    "title": "Projets",
+    "subtitle": "Mon Travail",
+    "description": "Voici quelques-uns des projets sur lesquels j'ai travaillé.",
+    "orderly": {
+      "name": "Orderly",
+      "description": "Création d'une simulation de contrôle du trafic aérien pour la gestion des aéronefs dans l'espace aérien contrôlé, offrant un environnement réaliste pour la formation et la compréhension des complexités de la coordination du trafic aérien.",
+      "tags": ["Spring Cloud", "Next Ts", "Kafka", "Zipkin"]
+    },
+    "bistro_management": {
+      "name": "Gestion de Bistro",
+      "description": "Développement d'un système de gestion de restaurant avec des rôles pour la gestion du menu, des repas et des commandes, offrant une commande et un suivi intuitifs, et une collaboration basée sur GitHub.",
+      "tags": ["Spring Boot", "React js", "Tailwind CSS"]
+    },
+    "aerologic": {
+      "name": "AeroLogic",
+      "description": "Développement d'une simulation de contrôle du trafic aérien pour la gestion de la coordination des aéronefs dans l'espace aérien contrôlé, offrant un environnement de formation réaliste.",
+      "tags": ["Spring Boot", "JS", "Html & Css"]
+    },
+    "votesphere": {
+      "name": "VoteSphere",
+      "description": "Développement d'une application mobile pour créer des salles de vote privées avec des options de vote multi-programmes, sécurisées par des codes d'accès pour garantir que seuls les participants autorisés peuvent rejoindre et voter lors de chaque session.",
+      "tags": ["Spring Boot", "Flutter"]
+    },
+    "fight_game": {
+      "name": "Jeu de Combat",
+      "description": "Découvrez mon projet de jeu de combat avec une page d'accueil, une sélection de joueurs, un gameplay et des résultats. L'interface intuitive et les options de personnage en font une expérience amusante.",
+      "tags": ["J2E", "JSP", "scss"]
+    },
+    "talksphere": {
+      "name": "TalkSphere",
+      "description": "Cette application web prend en charge les chats 1-to-1 et de groupe avec des rôles d'utilisateur comme Admin, Modérateur et Normal, chacun avec des autorisations spécifiques pour un contrôle et une modération efficaces du chat.",
+      "tags": ["Spring Boot", "JS", "Socket", "html & css"]
+    }
+  }
+}

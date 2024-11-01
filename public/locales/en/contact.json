@@ -1,0 +1,17 @@
+{
+    "title": "Contact Me",
+    "subtitle": "Get in touch",
+    "name": "Your Name",
+    "name-placeholder": "Enter your name",
+    "email": "Your Email",
+    "email-placeholder": "Enter your email",
+    "message": "Your Message",
+    "message-placeholder": "Enter your message",
+    "send": "Send",
+    "sending": "Sending...",
+    "github": "GitHub",
+    "successMessage": "Thank you. I will get back to you as soon as possible.",
+    "error": "An error occurred. Please try again later.",
+    "linkedin": "LinkedIn"
+    
+}

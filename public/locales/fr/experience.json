@@ -1,0 +1,39 @@
+{
+  "experience": {
+    "title": "Expérience professionnelle",
+    "subtitle":"Ce que j'ai fait jusqu'à présent",
+    "experiences": [
+      {
+        "title": "Développeur Fullstack",
+        "company_name": "EHC Group",
+        "date": "Juillet 2024 - Octobre 2024",
+        "points": [
+          "Développé et personnalisé une plateforme E-learning avec des modules sur mesure, intégration de notifications en temps réel via WebSockets.",
+          "Mis en place de dashboards pour la gestion des utilisateurs, des formations en direct et différé, et des quiz interactifs.",
+          "Participé activement au développement et à l'optimisation des systèmes, offrant une expérience enrichissante pour acquérir des compétences essentielles en développement logiciel.",
+          "Collaboré avec des équipes pour optimiser les solutions d'apprentissage en ligne, en utilisant Spring Cloud pour une architecture distribuée."
+        ]
+      },
+      {
+        "title": "Développeur Système Odoo",
+        "company_name": "Xatis",
+        "date": "Juillet 2023 - Août 2023",
+        "points": [
+          "Créé de nouveaux modules et adapté les modules existants pour le système Odoo pendant mon stage, répondant efficacement et personnellement aux besoins uniques de l'entreprise.",
+          "Collaboré avec une équipe qualifiée pour améliorer le système dans son ensemble et assurer son bon fonctionnement.",
+          "Participé activement au développement et à l'optimisation des systèmes, offrant une expérience enrichissante pour acquérir des compétences essentielles en développement logiciel.",
+          "Contribué de manière significative aux solutions de gestion de l'entreprise."
+        ]
+      },
+      {
+        "title": "Spécialiste du Dropshipping",
+        "company_name": "Shopify - Youcan",
+        "date": "Jan 2019 - Présent",
+        "points": [
+          "Spécialisé dans le dropshipping, création de boutiques sur Shopify et Youcan.",
+          "Géré l'ensemble du processus d'achat de produits sur AliExpress et de vente sur les sites Web de l'entreprise en Angleterre et aux États-Unis."
+        ]
+      }
+    ]
+  }
+}

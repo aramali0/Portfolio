@@ -1,0 +1,13 @@
+{
+"about": {
+    "introduction": "Introduction",
+    "overview": "Overview",
+    "description": "Aspiring Software Engineer with strong expertise in web and mobile development using technologies like Spring Boot, React, Next.js, Flutter, and Tailwind CSS. Experienced in building scalable applications, including e-learning platforms, management systems, and voting systems. Proficient in DevOps tools like Docker, Kubernetes, Jenkins, and AWS, as well as database management (MySQL, Oracle, PostgreSQL). Strong problem-solving skills and a collaborative team player, seeking a 6-month internship to apply and expand technical skills in a real-world setting.",
+    "services": {
+      "full_stack_developer": "Full Stack Developer",
+      "spring_boot_developer": "Spring Boot Developer",
+      "next_ts_developer": "Next Ts Developer",
+      "devops_engineer": "DevOps Engineer"
+    }
+}
+}

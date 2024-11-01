@@ -1,0 +1,9 @@
+ {
+ "hero": {
+    "greeting": "Salut, je suis",
+    "name": "ARAMALI Mohammed",
+    "description": "Étudiant ingénieur, en 3ème année Qualité Logiciels, recherchant un stage PFE (6 mois)",
+    "cv": "CV",
+    "contact": "Contact"
+  }
+}

@@ -1,0 +1,13 @@
+{
+"about": {
+    "introduction": "Introduction",
+    "overview": "Aperçu",
+    "description": "Ingénieur logiciel en herbe avec une forte expertise dans le développement web et mobile utilisant des technologies comme Spring Boot, React, Next.js, Flutter et Tailwind CSS. Expérimenté dans la construction d'applications évolutives, y compris des plateformes d'apprentissage en ligne, des systèmes de gestion et des systèmes de vote. Compétent dans les outils DevOps comme Docker, Kubernetes, Jenkins et AWS, ainsi que dans la gestion de bases de données (MySQL, Oracle, PostgreSQL). Fortes compétences en résolution de problèmes et joueur d'équipe collaboratif, recherchant un stage de 6 mois pour appliquer et développer des compétences techniques dans un environnement réel.",
+    "services": {
+      "full_stack_developer": "Développeur Full Stack",
+      "spring_boot_developer": "Développeur Spring Boot",
+      "next_ts_developer": "Développeur Next Ts",
+      "devops_engineer": "Ingénieur DevOps"
+    }
+}
+}

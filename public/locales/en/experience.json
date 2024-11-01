@@ -1,0 +1,39 @@
+{
+  "experience": {
+    "title": "Work Experience",
+    "subtitle":"What I have done do far",
+    "experiences": [
+      {
+        "title": "Fullstack Developer",
+        "company_name": "EHC Group",
+        "date": "July 2024 - October 2024",
+        "points": [
+          "Developed and customized an E-learning platform with custom modules, real-time notifications integration via WebSockets.",
+          "Implemented dashboards for user management, live and on-demand training, and interactive quizzes.",
+          "Actively participated in the development and optimization of systems, providing a rewarding experience to acquire essential software development skills.",
+          "Collaborated with teams to optimize online learning solutions, using Spring Cloud for a distributed architecture."
+        ]
+      },
+      {
+        "title": "Odoo System Developer",
+        "company_name": "Xatis",
+        "date": "July 2023 - August 2023",
+        "points": [
+          "Created new modules and adapted existing ones for the Odoo system during my internship, addressing the unique needs of the company effectively and personally.",
+          "Collaborated with a skilled team to enhance the system as a whole and ensure its proper functioning.",
+          "Actively participated in the development and optimization of systems, providing a rewarding experience to acquire essential software development skills.",
+          "Contributed significantly to the company's management solutions."
+        ]
+      },
+      {
+        "title": "Dropshipping Specialist",
+        "company_name": "Shopify - Youcan",
+        "date": "Jan 2019 - Present",
+        "points": [
+          "Specialized in dropshipping, creating stores on Shopify and Youcan.",
+          "Managed the entire process of purchasing products from AliExpress and selling them on the company's websites in England and the USA."
+        ]
+      }
+    ]
+  }
+}
