@@ -12,7 +12,7 @@ const Navbar = () => {
   const { t, i18n } = useTranslation("navbar");
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
-  const [language, setLanguage] = useState('en');
+  const [language, setLanguage] = useState('fr');
 
   const changeLanguage = () => {
     const newLanguage = language === 'en' ? 'fr' : 'en';

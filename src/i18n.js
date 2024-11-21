@@ -6,7 +6,7 @@ i18n
   .use(HttpBackend)
   .use(initReactI18next)
   .init({
-    fallbackLng: 'en',
+    fallbackLng: 'fr',
     ns: ['translation'],
     defaultNS: 'translation',
     detection: {
