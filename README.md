@@ -1,7 +1,7 @@
 # Portfolio Project
 
 Welcome to my portfolio project! 🚀 This project is a showcase of my skills, projects, and experiences in web development.
-Check it out: https://aramali.000webhostapp.com/
+Check it out: https://www.aramali.online
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ This portfolio is designed to provide an overview of my professional journey. It
 
 ## Getting Started
 
-To view the portfolio, simply visit [Your Portfolio Link].
+To view the portfolio, simply visit https://www.aramali.online.
 
 ## GitHub Repository
 
@@ -31,7 +31,7 @@ https://github.com/aramali0/Portfoli
 
 ## Hosting
 
-This portfolio is hosted on 000webhost.
+This portfolio is hosted on Vercel.
 
 ## How to Contribute
 
